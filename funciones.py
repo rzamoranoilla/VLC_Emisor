@@ -250,3 +250,4 @@ def translateRotation(rotation, width, height):
         rotation = -1 * (rotation - 180)
     rotation *= -1
     return round(rotation)
+
